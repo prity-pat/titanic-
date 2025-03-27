@@ -1,7 +1,8 @@
 import seaborn as sns
 import streamlit as st 
 import pandas as pd 
-import matplotlib.pyplot as plt 
+import matplotlib.pyplot as plt
+import scipy
 
 st.title('titanic datasets analysis_stramlit')
 
